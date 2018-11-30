@@ -1,4 +1,7 @@
+.idea
 target
-demotest
 *.iml
-111
+
+.classpath
+.project
+.settings
